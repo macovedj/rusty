@@ -1,0 +1,37 @@
+`/Users/interpretations/.rustup/toolchains/stable-aarch64-apple-darwin/bin/rustc 
+--crate-name build_script_build --edition=2018
+/Users/interpretations/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/build.rs 
+--error-format=json --json=diagnostic-rendered-ansi,artifacts,future-incompat
+--diagnostic-width=215 --crate-type bin --emit=dep-info,link -C embed-bitcode=no
+-C debuginfo=2 -C split-debuginfo=unpacked --cfg 'feature="default"' --cfg 'feature="std"'
+--check-cfg 'cfg(docsrs)' --check-cfg 'cfg(feature, values("default", "serde", "std"))'
+-C metadata=30668b972f019e05 -C extra-filename=-30668b972f019e05
+--out-dir /Users/interpretations/projects/rusty/foo/target/debug/build/semver-30668b972f019e05 -L dependency=/Users/interpretations/projects/rusty/foo/target/debug/deps --cap-lints allow`
+     
+     
+Running `/Users/interpretations/projects/rusty/foo/target/debug/build/semver-30668b972f019e05/build-script-build`
+     
+Running `/Users/interpretations/.rustup/toolchains/stable-aarch64-apple-darwin/bin/rustc
+--crate-name semver --edition=2018 /Users/interpretations/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/lib.rs
+--error-format=json --json=diagnostic-rendered-ansi,artifacts,future-incompat --diagnostic-width=215
+--crate-type lib --emit=dep-info,metadata,link -C embed-bitcode=no -C debuginfo=2 --cfg 'feature="default"'
+--cfg 'feature="std"' --check-cfg 'cfg(docsrs)' --check-cfg 'cfg(feature, values("default", "serde", "std"))'
+-C metadata=0a1b0bbda3f3846f -C extra-filename=-0a1b0bbda3f3846f
+--out-dir /Users/interpretations/projects/rusty/foo/target/wasm32-wasip1/debug/deps --target wasm32-wasip1
+-L dependency=/Users/interpretations/projects/rusty/foo/target/wasm32-wasip1/debug/deps -L dependency=/Users/interpretations/projects/rusty/foo/target/debug/deps
+--cap-lints allow --check-cfg 'cfg(doc_cfg)' --check-cfg 'cfg(no_alloc_crate)' --check-cfg 'cfg(no_const_vec_new)'\
+--check-cfg 'cfg(no_exhaustive_int_match)' --check-cfg 'cfg(no_non_exhaustive)' --check-cfg 'cfg(no_nonzero_bitscan)'
+--check-cfg 'cfg(no_str_strip_prefix)' --check-cfg 'cfg(no_track_caller)' --check-cfg 'cfg(no_unsafe_op_in_unsafe_fn_lint)'
+--check-cfg 'cfg(test_node_semver)'`
+
+Compiling foo v0.1.0 (/Users/interpretations/projects/rusty/foo)
+Running `/Users/interpretations/.rustup/toolchains/stable-aarch64-apple-darwin/bin/rustc
+     --crate-name foo --edition=2021 src/main.rs --error-format=json --json=diagnostic-rendered-ansi,artifacts,future-incompat
+     --diagnostic-width=215 --crate-type bin --emit=dep-info,link -C embed-bitcode=no
+     -C debuginfo=2 --check-cfg 'cfg(docsrs)' --check-cfg 'cfg(feature, values())'
+     -C metadata=34c99adde52244f7 -C extra-filename=-34c99adde52244f7 --out-dir
+     /Users/interpretations/projects/rusty/foo/target/wasm32-wasip1/debug/deps --target wasm32-wasip1
+     -C incremental=/Users/interpretations/projects/rusty/foo/target/wasm32-wasip1/debug/incremental
+     -L dependency=/Users/interpretations/projects/rusty/foo/target/wasm32-wasip1/debug/deps
+     -L dependency=/Users/interpretations/projects/rusty/foo/target/debug/deps
+     --extern semver=/Users/interpretations/projects/rusty/foo/target/wasm32-wasip1/debug/deps/libsemver-0a1b0bbda3f3846f.rlib`
