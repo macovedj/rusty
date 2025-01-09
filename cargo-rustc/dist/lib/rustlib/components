@@ -1,0 +1,3 @@
+rustc
+rust-std-arm64e-apple-darwin
+rust-std-wasm32-wasip1

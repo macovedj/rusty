@@ -1,0 +1,17 @@
+file:/Users/interpretations/projects/rust/dist/bin/rust-gdb
+file:/Users/interpretations/projects/rust/dist/bin/rust-gdbgui
+file:/Users/interpretations/projects/rust/dist/bin/rust-lldb
+file:/Users/interpretations/projects/rust/dist/bin/rustc.wasm
+file:/Users/interpretations/projects/rust/dist/lib/rustlib/etc/gdb_load_rust_pretty_printers.py
+file:/Users/interpretations/projects/rust/dist/lib/rustlib/etc/gdb_lookup.py
+file:/Users/interpretations/projects/rust/dist/lib/rustlib/etc/gdb_providers.py
+file:/Users/interpretations/projects/rust/dist/lib/rustlib/etc/lldb_commands
+file:/Users/interpretations/projects/rust/dist/lib/rustlib/etc/lldb_lookup.py
+file:/Users/interpretations/projects/rust/dist/lib/rustlib/etc/lldb_providers.py
+file:/Users/interpretations/projects/rust/dist/lib/rustlib/etc/rust_types.py
+file:/Users/interpretations/projects/rust/dist/share/doc/rustc/COPYRIGHT
+file:/Users/interpretations/projects/rust/dist/share/doc/rustc/LICENSE-APACHE
+file:/Users/interpretations/projects/rust/dist/share/doc/rustc/LICENSE-MIT
+file:/Users/interpretations/projects/rust/dist/share/doc/rustc/README.md
+file:/Users/interpretations/projects/rust/dist/share/man/man1/rustc.1
+file:/Users/interpretations/projects/rust/dist/share/man/man1/rustdoc.1

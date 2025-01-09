@@ -1,0 +1,130 @@
+install: uninstalling component 'rustc'
+install: removing file /Users/interpretations/projects/rust/dist/bin/rust-gdb
+$ rm -f /Users/interpretations/projects/rust/dist/bin/rust-gdb
+install: removing file /Users/interpretations/projects/rust/dist/bin/rust-gdbgui
+$ rm -f /Users/interpretations/projects/rust/dist/bin/rust-gdbgui
+install: removing file /Users/interpretations/projects/rust/dist/bin/rust-lldb
+$ rm -f /Users/interpretations/projects/rust/dist/bin/rust-lldb
+install: removing file /Users/interpretations/projects/rust/dist/bin/rustc.wasm
+$ rm -f /Users/interpretations/projects/rust/dist/bin/rustc.wasm
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/etc/gdb_load_rust_pretty_printers.py
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/etc/gdb_load_rust_pretty_printers.py
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/etc/gdb_lookup.py
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/etc/gdb_lookup.py
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/etc/gdb_providers.py
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/etc/gdb_providers.py
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/etc/lldb_commands
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/etc/lldb_commands
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/etc/lldb_lookup.py
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/etc/lldb_lookup.py
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/etc/lldb_providers.py
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/etc/lldb_providers.py
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/etc/rust_types.py
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/etc/rust_types.py
+install: removing file /Users/interpretations/projects/rust/dist/share/doc/rustc/COPYRIGHT
+$ rm -f /Users/interpretations/projects/rust/dist/share/doc/rustc/COPYRIGHT
+install: removing file /Users/interpretations/projects/rust/dist/share/doc/rustc/LICENSE-APACHE
+$ rm -f /Users/interpretations/projects/rust/dist/share/doc/rustc/LICENSE-APACHE
+install: removing file /Users/interpretations/projects/rust/dist/share/doc/rustc/LICENSE-MIT
+$ rm -f /Users/interpretations/projects/rust/dist/share/doc/rustc/LICENSE-MIT
+install: removing file /Users/interpretations/projects/rust/dist/share/doc/rustc/README.md
+$ rm -f /Users/interpretations/projects/rust/dist/share/doc/rustc/README.md
+install: removing file /Users/interpretations/projects/rust/dist/share/man/man1/rustc.1
+$ rm -f /Users/interpretations/projects/rust/dist/share/man/man1/rustc.1
+install: removing file /Users/interpretations/projects/rust/dist/share/man/man1/rustdoc.1
+$ rm -f /Users/interpretations/projects/rust/dist/share/man/man1/rustdoc.1
+install: removing component manifest /Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rustc
+$ rm /Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rustc
+$ echo "rust-std-arm64e-apple-darwin
+rust-std-wasm32-wasip1" > "/Users/interpretations/projects/rust/dist/lib/rustlib/components"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib"
+$ echo "3" > "/Users/interpretations/projects/rust/dist/lib/rustlib/rust-installer-version"
+install: creating uninstall script at /Users/interpretations/projects/rust/dist/lib/rustlib/uninstall.sh
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rustc/wasm32-wasip1-threads/rustc-1.83.0-dev-wasm32-wasip1-threads/install.sh /Users/interpretations/projects/rust/dist/lib/rustlib/uninstall.sh
+install: installing component 'rustc'
+$ echo "rustc" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/components"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/bin"
+install: copying file /Users/interpretations/projects/rust/dist/bin/rust-gdb
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rustc/wasm32-wasip1-threads/rustc-1.83.0-dev-wasm32-wasip1-threads/rustc/bin/rust-gdb /Users/interpretations/projects/rust/dist/bin/rust-gdb
+$ chmod 755 /Users/interpretations/projects/rust/dist/bin/rust-gdb
+$ echo "file:/Users/interpretations/projects/rust/dist/bin/rust-gdb" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rustc"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/bin"
+install: copying file /Users/interpretations/projects/rust/dist/bin/rust-gdbgui
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rustc/wasm32-wasip1-threads/rustc-1.83.0-dev-wasm32-wasip1-threads/rustc/bin/rust-gdbgui /Users/interpretations/projects/rust/dist/bin/rust-gdbgui
+$ chmod 755 /Users/interpretations/projects/rust/dist/bin/rust-gdbgui
+$ echo "file:/Users/interpretations/projects/rust/dist/bin/rust-gdbgui" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rustc"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/bin"
+install: copying file /Users/interpretations/projects/rust/dist/bin/rust-lldb
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rustc/wasm32-wasip1-threads/rustc-1.83.0-dev-wasm32-wasip1-threads/rustc/bin/rust-lldb /Users/interpretations/projects/rust/dist/bin/rust-lldb
+$ chmod 755 /Users/interpretations/projects/rust/dist/bin/rust-lldb
+$ echo "file:/Users/interpretations/projects/rust/dist/bin/rust-lldb" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rustc"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/bin"
+install: copying file /Users/interpretations/projects/rust/dist/bin/rustc.wasm
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rustc/wasm32-wasip1-threads/rustc-1.83.0-dev-wasm32-wasip1-threads/rustc/bin/rustc.wasm /Users/interpretations/projects/rust/dist/bin/rustc.wasm
+$ chmod 755 /Users/interpretations/projects/rust/dist/bin/rustc.wasm
+$ echo "file:/Users/interpretations/projects/rust/dist/bin/rustc.wasm" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rustc"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/etc"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/etc/gdb_load_rust_pretty_printers.py
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rustc/wasm32-wasip1-threads/rustc-1.83.0-dev-wasm32-wasip1-threads/rustc/lib/rustlib/etc/gdb_load_rust_pretty_printers.py /Users/interpretations/projects/rust/dist/lib/rustlib/etc/gdb_load_rust_pretty_printers.py
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/etc/gdb_load_rust_pretty_printers.py
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/etc/gdb_load_rust_pretty_printers.py" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rustc"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/etc"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/etc/gdb_lookup.py
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rustc/wasm32-wasip1-threads/rustc-1.83.0-dev-wasm32-wasip1-threads/rustc/lib/rustlib/etc/gdb_lookup.py /Users/interpretations/projects/rust/dist/lib/rustlib/etc/gdb_lookup.py
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/etc/gdb_lookup.py
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/etc/gdb_lookup.py" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rustc"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/etc"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/etc/gdb_providers.py
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rustc/wasm32-wasip1-threads/rustc-1.83.0-dev-wasm32-wasip1-threads/rustc/lib/rustlib/etc/gdb_providers.py /Users/interpretations/projects/rust/dist/lib/rustlib/etc/gdb_providers.py
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/etc/gdb_providers.py
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/etc/gdb_providers.py" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rustc"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/etc"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/etc/lldb_commands
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rustc/wasm32-wasip1-threads/rustc-1.83.0-dev-wasm32-wasip1-threads/rustc/lib/rustlib/etc/lldb_commands /Users/interpretations/projects/rust/dist/lib/rustlib/etc/lldb_commands
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/etc/lldb_commands
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/etc/lldb_commands" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rustc"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/etc"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/etc/lldb_lookup.py
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rustc/wasm32-wasip1-threads/rustc-1.83.0-dev-wasm32-wasip1-threads/rustc/lib/rustlib/etc/lldb_lookup.py /Users/interpretations/projects/rust/dist/lib/rustlib/etc/lldb_lookup.py
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/etc/lldb_lookup.py
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/etc/lldb_lookup.py" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rustc"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/etc"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/etc/lldb_providers.py
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rustc/wasm32-wasip1-threads/rustc-1.83.0-dev-wasm32-wasip1-threads/rustc/lib/rustlib/etc/lldb_providers.py /Users/interpretations/projects/rust/dist/lib/rustlib/etc/lldb_providers.py
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/etc/lldb_providers.py
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/etc/lldb_providers.py" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rustc"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/etc"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/etc/rust_types.py
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rustc/wasm32-wasip1-threads/rustc-1.83.0-dev-wasm32-wasip1-threads/rustc/lib/rustlib/etc/rust_types.py /Users/interpretations/projects/rust/dist/lib/rustlib/etc/rust_types.py
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/etc/rust_types.py
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/etc/rust_types.py" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rustc"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/share/doc/rustc"
+install: copying file /Users/interpretations/projects/rust/dist/share/doc/rustc/COPYRIGHT
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rustc/wasm32-wasip1-threads/rustc-1.83.0-dev-wasm32-wasip1-threads/rustc/share/doc/rust/COPYRIGHT /Users/interpretations/projects/rust/dist/share/doc/rustc/COPYRIGHT
+$ chmod 644 /Users/interpretations/projects/rust/dist/share/doc/rustc/COPYRIGHT
+$ echo "file:/Users/interpretations/projects/rust/dist/share/doc/rustc/COPYRIGHT" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rustc"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/share/doc/rustc"
+install: copying file /Users/interpretations/projects/rust/dist/share/doc/rustc/LICENSE-APACHE
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rustc/wasm32-wasip1-threads/rustc-1.83.0-dev-wasm32-wasip1-threads/rustc/share/doc/rust/LICENSE-APACHE /Users/interpretations/projects/rust/dist/share/doc/rustc/LICENSE-APACHE
+$ chmod 644 /Users/interpretations/projects/rust/dist/share/doc/rustc/LICENSE-APACHE
+$ echo "file:/Users/interpretations/projects/rust/dist/share/doc/rustc/LICENSE-APACHE" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rustc"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/share/doc/rustc"
+install: copying file /Users/interpretations/projects/rust/dist/share/doc/rustc/LICENSE-MIT
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rustc/wasm32-wasip1-threads/rustc-1.83.0-dev-wasm32-wasip1-threads/rustc/share/doc/rust/LICENSE-MIT /Users/interpretations/projects/rust/dist/share/doc/rustc/LICENSE-MIT
+$ chmod 644 /Users/interpretations/projects/rust/dist/share/doc/rustc/LICENSE-MIT
+$ echo "file:/Users/interpretations/projects/rust/dist/share/doc/rustc/LICENSE-MIT" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rustc"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/share/doc/rustc"
+install: copying file /Users/interpretations/projects/rust/dist/share/doc/rustc/README.md
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rustc/wasm32-wasip1-threads/rustc-1.83.0-dev-wasm32-wasip1-threads/rustc/share/doc/rust/README.md /Users/interpretations/projects/rust/dist/share/doc/rustc/README.md
+$ chmod 644 /Users/interpretations/projects/rust/dist/share/doc/rustc/README.md
+$ echo "file:/Users/interpretations/projects/rust/dist/share/doc/rustc/README.md" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rustc"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/share/man/man1"
+install: copying file /Users/interpretations/projects/rust/dist/share/man/man1/rustc.1
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rustc/wasm32-wasip1-threads/rustc-1.83.0-dev-wasm32-wasip1-threads/rustc/share/man/man1/rustc.1 /Users/interpretations/projects/rust/dist/share/man/man1/rustc.1
+$ chmod 644 /Users/interpretations/projects/rust/dist/share/man/man1/rustc.1
+$ echo "file:/Users/interpretations/projects/rust/dist/share/man/man1/rustc.1" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rustc"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/share/man/man1"
+install: copying file /Users/interpretations/projects/rust/dist/share/man/man1/rustdoc.1
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rustc/wasm32-wasip1-threads/rustc-1.83.0-dev-wasm32-wasip1-threads/rustc/share/man/man1/rustdoc.1 /Users/interpretations/projects/rust/dist/share/man/man1/rustdoc.1
+$ chmod 644 /Users/interpretations/projects/rust/dist/share/man/man1/rustdoc.1
+$ echo "file:/Users/interpretations/projects/rust/dist/share/man/man1/rustdoc.1" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rustc"

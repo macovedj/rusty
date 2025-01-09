@@ -1,0 +1,221 @@
+install: uninstalling component 'rust-std-wasm32-wasip1'
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libaddr2line-5398891133c5c0d4.rlib
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libaddr2line-5398891133c5c0d4.rlib
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libadler-5d2bc5cb76b650af.rlib
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libadler-5d2bc5cb76b650af.rlib
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/liballoc-e06f1c1aeb0883db.rlib
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/liballoc-e06f1c1aeb0883db.rlib
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libcfg_if-e4ab76cb259868a3.rlib
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libcfg_if-e4ab76cb259868a3.rlib
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libcompiler_builtins-484d0a925ca4c99b.rlib
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libcompiler_builtins-484d0a925ca4c99b.rlib
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libcore-3e70038323b3a06e.rlib
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libcore-3e70038323b3a06e.rlib
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libgetopts-c89f8064d0f1ce9a.rlib
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libgetopts-c89f8064d0f1ce9a.rlib
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libgimli-d794edf07468ba7f.rlib
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libgimli-d794edf07468ba7f.rlib
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libhashbrown-9c8dafa47b78b34b.rlib
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libhashbrown-9c8dafa47b78b34b.rlib
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/liblibc-05812c69ed546a50.rlib
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/liblibc-05812c69ed546a50.rlib
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libmemchr-cef782bb3a88189e.rlib
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libmemchr-cef782bb3a88189e.rlib
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libminiz_oxide-a8aeb7d5a1f40cd2.rlib
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libminiz_oxide-a8aeb7d5a1f40cd2.rlib
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libobject-f7ad49009ddcfee0.rlib
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libobject-f7ad49009ddcfee0.rlib
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libpanic_abort-a294034b53c49a57.rlib
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libpanic_abort-a294034b53c49a57.rlib
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libpanic_unwind-b47b418de9bc056b.rlib
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libpanic_unwind-b47b418de9bc056b.rlib
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libproc_macro-fb5b3bdf4132241f.rlib
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libproc_macro-fb5b3bdf4132241f.rlib
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/librustc_demangle-0856835adec3bb64.rlib
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/librustc_demangle-0856835adec3bb64.rlib
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/librustc_std_workspace_alloc-d64a451cc35bdca2.rlib
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/librustc_std_workspace_alloc-d64a451cc35bdca2.rlib
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/librustc_std_workspace_core-4e237761d66d6cde.rlib
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/librustc_std_workspace_core-4e237761d66d6cde.rlib
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/librustc_std_workspace_std-654b1829b272fe37.rlib
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/librustc_std_workspace_std-654b1829b272fe37.rlib
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libstd-915de2a49f0ab168.rlib
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libstd-915de2a49f0ab168.rlib
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libstd_detect-ba53d2aa72ef9c55.rlib
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libstd_detect-ba53d2aa72ef9c55.rlib
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libsysroot-6cd9fc14d6a38791.rlib
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libsysroot-6cd9fc14d6a38791.rlib
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libtest-18cc2b108b5c3c71.rlib
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libtest-18cc2b108b5c3c71.rlib
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libunicode_width-88c0bbd126a7503d.rlib
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libunicode_width-88c0bbd126a7503d.rlib
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libunwind-2dd503e6e65b9b2c.rlib
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libunwind-2dd503e6e65b9b2c.rlib
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libwasi-10065663b6848bc6.rlib
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libwasi-10065663b6848bc6.rlib
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/self-contained/crt1-command.o
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/self-contained/crt1-command.o
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/self-contained/crt1-reactor.o
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/self-contained/crt1-reactor.o
+install: removing file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/self-contained/libc.a
+$ rm -f /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/self-contained/libc.a
+install: removing component manifest /Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1
+$ rm /Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1
+$ echo "rustc
+rust-std-arm64e-apple-darwin" > "/Users/interpretations/projects/rust/dist/lib/rustlib/components"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib"
+$ echo "3" > "/Users/interpretations/projects/rust/dist/lib/rustlib/rust-installer-version"
+install: creating uninstall script at /Users/interpretations/projects/rust/dist/lib/rustlib/uninstall.sh
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/install.sh /Users/interpretations/projects/rust/dist/lib/rustlib/uninstall.sh
+install: installing component 'rust-std-wasm32-wasip1'
+$ echo "rust-std-wasm32-wasip1" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/components"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libaddr2line-5398891133c5c0d4.rlib
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/rust-std-wasm32-wasip1/lib/rustlib/wasm32-wasip1/lib/libaddr2line-5398891133c5c0d4.rlib /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libaddr2line-5398891133c5c0d4.rlib
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libaddr2line-5398891133c5c0d4.rlib
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libaddr2line-5398891133c5c0d4.rlib" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libadler-5d2bc5cb76b650af.rlib
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/rust-std-wasm32-wasip1/lib/rustlib/wasm32-wasip1/lib/libadler-5d2bc5cb76b650af.rlib /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libadler-5d2bc5cb76b650af.rlib
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libadler-5d2bc5cb76b650af.rlib
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libadler-5d2bc5cb76b650af.rlib" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/liballoc-e06f1c1aeb0883db.rlib
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/rust-std-wasm32-wasip1/lib/rustlib/wasm32-wasip1/lib/liballoc-e06f1c1aeb0883db.rlib /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/liballoc-e06f1c1aeb0883db.rlib
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/liballoc-e06f1c1aeb0883db.rlib
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/liballoc-e06f1c1aeb0883db.rlib" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libcfg_if-e4ab76cb259868a3.rlib
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/rust-std-wasm32-wasip1/lib/rustlib/wasm32-wasip1/lib/libcfg_if-e4ab76cb259868a3.rlib /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libcfg_if-e4ab76cb259868a3.rlib
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libcfg_if-e4ab76cb259868a3.rlib
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libcfg_if-e4ab76cb259868a3.rlib" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libcompiler_builtins-484d0a925ca4c99b.rlib
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/rust-std-wasm32-wasip1/lib/rustlib/wasm32-wasip1/lib/libcompiler_builtins-484d0a925ca4c99b.rlib /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libcompiler_builtins-484d0a925ca4c99b.rlib
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libcompiler_builtins-484d0a925ca4c99b.rlib
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libcompiler_builtins-484d0a925ca4c99b.rlib" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libcore-3e70038323b3a06e.rlib
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/rust-std-wasm32-wasip1/lib/rustlib/wasm32-wasip1/lib/libcore-3e70038323b3a06e.rlib /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libcore-3e70038323b3a06e.rlib
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libcore-3e70038323b3a06e.rlib
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libcore-3e70038323b3a06e.rlib" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libgetopts-c89f8064d0f1ce9a.rlib
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/rust-std-wasm32-wasip1/lib/rustlib/wasm32-wasip1/lib/libgetopts-c89f8064d0f1ce9a.rlib /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libgetopts-c89f8064d0f1ce9a.rlib
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libgetopts-c89f8064d0f1ce9a.rlib
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libgetopts-c89f8064d0f1ce9a.rlib" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libgimli-d794edf07468ba7f.rlib
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/rust-std-wasm32-wasip1/lib/rustlib/wasm32-wasip1/lib/libgimli-d794edf07468ba7f.rlib /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libgimli-d794edf07468ba7f.rlib
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libgimli-d794edf07468ba7f.rlib
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libgimli-d794edf07468ba7f.rlib" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libhashbrown-9c8dafa47b78b34b.rlib
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/rust-std-wasm32-wasip1/lib/rustlib/wasm32-wasip1/lib/libhashbrown-9c8dafa47b78b34b.rlib /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libhashbrown-9c8dafa47b78b34b.rlib
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libhashbrown-9c8dafa47b78b34b.rlib
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libhashbrown-9c8dafa47b78b34b.rlib" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/liblibc-05812c69ed546a50.rlib
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/rust-std-wasm32-wasip1/lib/rustlib/wasm32-wasip1/lib/liblibc-05812c69ed546a50.rlib /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/liblibc-05812c69ed546a50.rlib
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/liblibc-05812c69ed546a50.rlib
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/liblibc-05812c69ed546a50.rlib" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libmemchr-cef782bb3a88189e.rlib
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/rust-std-wasm32-wasip1/lib/rustlib/wasm32-wasip1/lib/libmemchr-cef782bb3a88189e.rlib /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libmemchr-cef782bb3a88189e.rlib
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libmemchr-cef782bb3a88189e.rlib
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libmemchr-cef782bb3a88189e.rlib" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libminiz_oxide-a8aeb7d5a1f40cd2.rlib
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/rust-std-wasm32-wasip1/lib/rustlib/wasm32-wasip1/lib/libminiz_oxide-a8aeb7d5a1f40cd2.rlib /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libminiz_oxide-a8aeb7d5a1f40cd2.rlib
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libminiz_oxide-a8aeb7d5a1f40cd2.rlib
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libminiz_oxide-a8aeb7d5a1f40cd2.rlib" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libobject-f7ad49009ddcfee0.rlib
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/rust-std-wasm32-wasip1/lib/rustlib/wasm32-wasip1/lib/libobject-f7ad49009ddcfee0.rlib /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libobject-f7ad49009ddcfee0.rlib
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libobject-f7ad49009ddcfee0.rlib
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libobject-f7ad49009ddcfee0.rlib" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libpanic_abort-a294034b53c49a57.rlib
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/rust-std-wasm32-wasip1/lib/rustlib/wasm32-wasip1/lib/libpanic_abort-a294034b53c49a57.rlib /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libpanic_abort-a294034b53c49a57.rlib
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libpanic_abort-a294034b53c49a57.rlib
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libpanic_abort-a294034b53c49a57.rlib" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libpanic_unwind-b47b418de9bc056b.rlib
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/rust-std-wasm32-wasip1/lib/rustlib/wasm32-wasip1/lib/libpanic_unwind-b47b418de9bc056b.rlib /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libpanic_unwind-b47b418de9bc056b.rlib
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libpanic_unwind-b47b418de9bc056b.rlib
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libpanic_unwind-b47b418de9bc056b.rlib" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libproc_macro-fb5b3bdf4132241f.rlib
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/rust-std-wasm32-wasip1/lib/rustlib/wasm32-wasip1/lib/libproc_macro-fb5b3bdf4132241f.rlib /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libproc_macro-fb5b3bdf4132241f.rlib
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libproc_macro-fb5b3bdf4132241f.rlib
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libproc_macro-fb5b3bdf4132241f.rlib" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/librustc_demangle-0856835adec3bb64.rlib
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/rust-std-wasm32-wasip1/lib/rustlib/wasm32-wasip1/lib/librustc_demangle-0856835adec3bb64.rlib /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/librustc_demangle-0856835adec3bb64.rlib
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/librustc_demangle-0856835adec3bb64.rlib
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/librustc_demangle-0856835adec3bb64.rlib" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/librustc_std_workspace_alloc-d64a451cc35bdca2.rlib
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/rust-std-wasm32-wasip1/lib/rustlib/wasm32-wasip1/lib/librustc_std_workspace_alloc-d64a451cc35bdca2.rlib /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/librustc_std_workspace_alloc-d64a451cc35bdca2.rlib
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/librustc_std_workspace_alloc-d64a451cc35bdca2.rlib
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/librustc_std_workspace_alloc-d64a451cc35bdca2.rlib" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/librustc_std_workspace_core-4e237761d66d6cde.rlib
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/rust-std-wasm32-wasip1/lib/rustlib/wasm32-wasip1/lib/librustc_std_workspace_core-4e237761d66d6cde.rlib /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/librustc_std_workspace_core-4e237761d66d6cde.rlib
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/librustc_std_workspace_core-4e237761d66d6cde.rlib
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/librustc_std_workspace_core-4e237761d66d6cde.rlib" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/librustc_std_workspace_std-654b1829b272fe37.rlib
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/rust-std-wasm32-wasip1/lib/rustlib/wasm32-wasip1/lib/librustc_std_workspace_std-654b1829b272fe37.rlib /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/librustc_std_workspace_std-654b1829b272fe37.rlib
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/librustc_std_workspace_std-654b1829b272fe37.rlib
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/librustc_std_workspace_std-654b1829b272fe37.rlib" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libstd-915de2a49f0ab168.rlib
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/rust-std-wasm32-wasip1/lib/rustlib/wasm32-wasip1/lib/libstd-915de2a49f0ab168.rlib /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libstd-915de2a49f0ab168.rlib
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libstd-915de2a49f0ab168.rlib
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libstd-915de2a49f0ab168.rlib" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libstd_detect-ba53d2aa72ef9c55.rlib
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/rust-std-wasm32-wasip1/lib/rustlib/wasm32-wasip1/lib/libstd_detect-ba53d2aa72ef9c55.rlib /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libstd_detect-ba53d2aa72ef9c55.rlib
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libstd_detect-ba53d2aa72ef9c55.rlib
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libstd_detect-ba53d2aa72ef9c55.rlib" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libsysroot-6cd9fc14d6a38791.rlib
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/rust-std-wasm32-wasip1/lib/rustlib/wasm32-wasip1/lib/libsysroot-6cd9fc14d6a38791.rlib /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libsysroot-6cd9fc14d6a38791.rlib
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libsysroot-6cd9fc14d6a38791.rlib
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libsysroot-6cd9fc14d6a38791.rlib" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libtest-18cc2b108b5c3c71.rlib
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/rust-std-wasm32-wasip1/lib/rustlib/wasm32-wasip1/lib/libtest-18cc2b108b5c3c71.rlib /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libtest-18cc2b108b5c3c71.rlib
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libtest-18cc2b108b5c3c71.rlib
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libtest-18cc2b108b5c3c71.rlib" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libunicode_width-88c0bbd126a7503d.rlib
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/rust-std-wasm32-wasip1/lib/rustlib/wasm32-wasip1/lib/libunicode_width-88c0bbd126a7503d.rlib /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libunicode_width-88c0bbd126a7503d.rlib
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libunicode_width-88c0bbd126a7503d.rlib
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libunicode_width-88c0bbd126a7503d.rlib" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libunwind-2dd503e6e65b9b2c.rlib
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/rust-std-wasm32-wasip1/lib/rustlib/wasm32-wasip1/lib/libunwind-2dd503e6e65b9b2c.rlib /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libunwind-2dd503e6e65b9b2c.rlib
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libunwind-2dd503e6e65b9b2c.rlib
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libunwind-2dd503e6e65b9b2c.rlib" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libwasi-10065663b6848bc6.rlib
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/rust-std-wasm32-wasip1/lib/rustlib/wasm32-wasip1/lib/libwasi-10065663b6848bc6.rlib /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libwasi-10065663b6848bc6.rlib
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libwasi-10065663b6848bc6.rlib
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/libwasi-10065663b6848bc6.rlib" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/self-contained"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/self-contained/crt1-command.o
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/rust-std-wasm32-wasip1/lib/rustlib/wasm32-wasip1/lib/self-contained/crt1-command.o /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/self-contained/crt1-command.o
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/self-contained/crt1-command.o
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/self-contained/crt1-command.o" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/self-contained"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/self-contained/crt1-reactor.o
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/rust-std-wasm32-wasip1/lib/rustlib/wasm32-wasip1/lib/self-contained/crt1-reactor.o /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/self-contained/crt1-reactor.o
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/self-contained/crt1-reactor.o
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/self-contained/crt1-reactor.o" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1"
+$ umask 022 && mkdir -p "/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/self-contained"
+install: copying file /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/self-contained/libc.a
+$ cp /Users/interpretations/projects/rust/build/tmp/tarball/rust-std/wasm32-wasip1/rust-std-1.83.0-dev-wasm32-wasip1/rust-std-wasm32-wasip1/lib/rustlib/wasm32-wasip1/lib/self-contained/libc.a /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/self-contained/libc.a
+$ chmod 644 /Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/self-contained/libc.a
+$ echo "file:/Users/interpretations/projects/rust/dist/lib/rustlib/wasm32-wasip1/lib/self-contained/libc.a" >> "/Users/interpretations/projects/rust/dist/lib/rustlib/manifest-rust-std-wasm32-wasip1"
